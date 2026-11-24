@@ -1,0 +1,19 @@
+CÓD,SIGNIFICADO
+STUD,Estudo (faculdade/autodidata)
+STUD01,Estudo de caso
+STUD02,Lista de exercícios
+STUD03,Trabalho/artigo acadêmico
+STUD04,Revisão/prova
+STUD05,Resumo/anotações
+WORK,Trabalho / profissional
+WORK01,Análise/relatório
+WORK02,Teste
+WORK03,Automação/rotina
+WORK04,Dashboard/planilha
+PERS,Projeto pessoal
+PERS01,###
+PERS02,###
+PERS03,###
+PERS04,###
+LAB,Experimento/sandbox
+LAB01,Teste rápido/rascunho
