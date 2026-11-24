@@ -1,2 +1,6 @@
-# dicionario_de_siglas
-Dicionário para traduzir as siglas do meu GitHub. 
+# Dicionario Geral
+
+Feito para organizar meus projetos de maneira mais fácil.
+
+Estrutua base:
+P{###}-{CAT}{##}-{ÁREA}
